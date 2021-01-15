@@ -1,1 +1,0 @@
-# geospatial-workshop-python
